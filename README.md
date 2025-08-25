@@ -21,10 +21,6 @@ It allows users to add, delete, and manage daily tasks efficiently, with **Local
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to set up the project locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Dharshini-CD/to-do-list.git
+## 🚀Setup Instructions
+1. Clone the repo: `git clone https://github.com/yourusername/to-do-list.git`
+2. Open `index.html` in your browser
