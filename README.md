@@ -24,3 +24,6 @@ It allows users to add, delete, and manage daily tasks efficiently, with **Local
 ## 🚀Setup Instructions
 1. Clone the repo: `git clone https://github.com/yourusername/to-do-list.git`
 2. Open `index.html` in your browser
+
+## 🚀 Live Site
+Check out the live version of this project here: [Live Demo](https://username.github.io/repo-name/)
